@@ -6,4 +6,5 @@ Designed and simulated a WAN network using Cisco Packet Tracer. Configured IP ad
 
 <img width="530" height="158" alt="image" src="https://github.com/user-attachments/assets/0326298a-23ef-4c56-84d3-6664ee37bf79" />
 
-<img width="349" height="103" alt="image" src="https://github.com/user-attachments/assets/fa8200c2-d7df-4e2f-9edc-ef86a7e6fa43" />
+<img width="546" height="100" alt="image" src="https://github.com/user-attachments/assets/827589dd-254f-4f62-983e-45f88861dc4d" />
+
